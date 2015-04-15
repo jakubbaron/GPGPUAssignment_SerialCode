@@ -1,10 +1,10 @@
+#define _USE_MATH_DEFINES // for M_PI
+
 #include<iostream>
 #include<fstream>
 #include<cstdio>
 #include<ctime>
 #include<cmath>
-
-#define _USE_MATH_DEFINES // for M_PI
 
 //configuration values
 #define KMAX 10000
