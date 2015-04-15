@@ -1,10 +1,10 @@
+#define _USE_MATH_DEFINES
+
 #include<iostream>
 #include<fstream>
 #include<cstdio>
 #include<ctime>
 #include<cmath>
-
-#define M_PI          3.141592653589793238462643383279502884 /* pi */
 
 //configuration values
 #define KMAX 10000
